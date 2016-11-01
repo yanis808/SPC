@@ -1,0 +1,4 @@
+Average = 6.91
+Mediana = 6.75
+Range = 3.8
+Standard deviation = 0.45
