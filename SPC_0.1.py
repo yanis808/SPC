@@ -88,6 +88,10 @@ def std_dv():
     report.write("\n")
 
 
+def test_n():
+
+
+
 def main():
     average()
     mediana()
